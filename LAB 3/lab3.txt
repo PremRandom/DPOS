@@ -1,0 +1,50 @@
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ gedit faop.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ chmod +x faop.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ ./faop.sh
+Enter 1st integer:
+5.12
+Enter 2nd integer:
+3.3
+sum= 8.42
+sub= 1.82
+mul= 16.89
+div= 1.55
+rem= .005
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ gedit salarycalc.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ chmod +x salarycalc.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ ./salarycalc.sh
+Enter basic salary: 30000
+Dearness Allowance (40%): ₹12000.00
+House Rent Allowance (30%): ₹9000.00
+Gross Salary: ₹51000.00
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ gedit pnl.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ chmod +x pnl.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ ./pnl.sh
+Enter Cost Price: 55
+Enter Selling Price: 73
+The seller made a PROFIT of ₹18
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ gedit pnl.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ chmod +x pnl.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ ./pnl.sh
+Enter Cost Price: 
+543
+Enter Selling Price: 
+687
+PROFIT of ₹144
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ gedit pnl.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ chmod +x pnl.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ ./pnl.sh
+Enter Cost Price: 
+5234
+Enter Selling Price: 
+6544 
+PROFIT of 1310
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ gedit salarycalc.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ chmod +x salarycalc.sh
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ ./salarycalc.sh
+Enter basic salary: 30000
+Dearness Allowance (40%): 12000.00
+House Rent Allowance (30%): 9000.00
+Gross Salary: 51000.00
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ ^C
+iter@C-126-C045:~/Desktop/2341019043/DPOS/LAB 3$ 
